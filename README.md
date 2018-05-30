@@ -34,4 +34,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-#### if you need help with something or have any suggestions don't hesitate to contact me at _amr.elkady153@gmail.com_ # movie_web
+#### if you need help with something or have any suggestions don't hesitate to contact me at _amr.elkady153@gmail.com_
